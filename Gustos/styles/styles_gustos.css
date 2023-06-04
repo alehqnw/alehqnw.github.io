@@ -1,0 +1,55 @@
+
+/* Alejandro Hernández 1ºDAM A */
+* {
+  font-family: FontAwesome, 'Roboto';
+}
+p{
+  text-align: left;
+}
+form {
+  width: 35%;
+  margin: 0 auto;
+  background-color:moccasin;
+  padding: 1em;
+  border-radius: .5em;
+}
+form:hover{
+    color:blue;
+}
+label {
+  margin-bottom: .5em;
+  color: #3498DB;
+  font-weight: 320;
+  display: block;
+}
+
+button, input {
+  display: inline-block;
+  width: 100%;
+  background-color:floralwhite;
+  box-sizing: border-box;
+  border: none;
+  border-radius: .25em;
+  padding: 1em;
+  font-size: 15px;
+}
+input {
+  margin-bottom: 1em;
+}
+button[type="submit"] {
+  background-color: #3498DB;
+  color:lightslategrey;
+  font-size: 15px;
+  font-weight: 300;
+  padding: .5em;
+}
+
+button[type="submit"]:hover {
+  background-color: #1B4F72;
+}
+input:hover{
+    background-color: lightblue;
+}
+.pie{
+  position: absolute;
+}

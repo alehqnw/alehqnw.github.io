@@ -1,0 +1,53 @@
+/* Alejandro Hernández 1ºDAM A */
+h1 {
+    text-align:center;
+    color:black;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+
+body{
+    display:inline-block;
+    min-height: 100vh;
+}
+.center{
+    display: inline-flex;
+    border: none;
+    width: 100%;
+    text-align: center;
+
+}
+.inicio{
+    font-size: 15px;
+    width: 100%;
+}
+.katanas1 > img{
+    position: relative;
+    left: 35%;
+    margin: 1%;
+}
+.katanas1{
+    position: relative;
+    color:Grey;
+    width: 25%;
+    padding: 0;
+    border: none;
+    float: left;
+    text-align: left;
+    margin-bottom: 10px;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+
+ul{
+    margin-bottom: 1em;
+    text-align: center;
+}
+.pie{
+    position:absolute;
+}

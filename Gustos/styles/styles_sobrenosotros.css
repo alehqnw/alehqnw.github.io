@@ -1,0 +1,40 @@
+/* Alejandro Hernández 1ºDAM A */
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.imagenflecha{
+    position:relative;
+    top: 14%;
+    left: 36%;
+    animation:bajar 1s alternate forwards;
+}
+
+.videon1{
+    position: relative;
+    top: 250px;
+    left: 30%;
+    width: 680px;
+    height: 480px;
+}
+
+footer.pie {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+}
+@keyframes bajar {
+    0%{
+        translate:0 0;
+    }
+    100%{
+        translate:0 75% 0;
+    }
+    
+}
