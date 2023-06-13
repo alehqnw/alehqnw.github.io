@@ -46,10 +46,16 @@ div{
 
 }
 .rss{
-    position: relative;
+    position: absolute;
     width: 250px;
     height: 100px;
     
+}
+.atom{
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    left: 10%;
 }
 ul{
     margin-bottom: 1em;
