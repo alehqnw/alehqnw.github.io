@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Noticias Generales</title>
+<link>https://alehqnw.github.io/index.html</link>
+<description>Nuevos mangas añadidos</description>
+<language>es-ES</language>
+
+
+<item>
+<title>Noticia pagina</title>
+<link>https://alehqnw.github.io/Gustos/articles_manga.html#Manga1</link>
+<description>Nuevos mangas</description>
+</item>
+
+<item>
+<title>Noticias AEMET</title>
+<link>https://www.aemet.es/</link>
+<description>AEMET</description>
+</item>
+
+<item>
+<title>Noticias SOMOSKUDASAI</title>
+<link>https://somoskudasai.com/noticias/cultura-otaku/oshi-no-ko-una-ia-trae-de-vuelta-a-ai-hoshino-como-una-linda-chica-real/</link>
+<description>Somos kudasai</description>
+</item>
+
+</channel>
+</rss>

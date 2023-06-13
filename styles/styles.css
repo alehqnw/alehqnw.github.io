@@ -45,6 +45,12 @@ div{
     width:300px;
 
 }
+.rss{
+    position: relative;
+    width: 250px;
+    height: 100px;
+    
+}
 ul{
     margin-bottom: 1em;
     text-align: center;
